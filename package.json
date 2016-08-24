@@ -1,14 +1,14 @@
 {
-  "name": "one-dark-syntax",
+  "name": "bon-dark-syntax",
   "theme": "syntax",
   "version": "1.3.0",
-  "description": "A dark syntax theme",
+  "description": "A dark syntax theme, inspired by both 'One Dark' and 'Brogrammer'",
   "keywords": [
     "dark",
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
