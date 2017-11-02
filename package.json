@@ -8,7 +8,7 @@
     "blue",
     "syntax"
   ],
-  "repository": "",
+  "repository": "https://github.com/kfkonrad/bon-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
